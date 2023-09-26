@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "0c0478a665193abe",
+        "id": "32c0b0a5787d0e8b",
         "type": "tabs",
         "children": [
           {
-            "id": "319a2960a81207a0",
+            "id": "a2a8f2e463227784",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "1333. 餐厅过滤器.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "1333. 餐厅过滤器.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "1333. 餐厅过滤器.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,10 +124,21 @@
             "type": "leaf",
             "state": {
               "type": "outline",
+              "state": {
+                "file": "1333. 餐厅过滤器.md"
+              }
+            }
+          },
+          {
+            "id": "2442801224d1b005",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -136,41 +153,44 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "319a2960a81207a0",
+  "active": "a2a8f2e463227784",
   "lastOpenFiles": [
-    "leetcode/daily/202309/×337. 打家劫舍 III.md",
-    "leetcode/daily/202309/canvas/337. 打家劫舍 III.excalidraw.md",
-    "leetcode/daily/202309/×16-198. 打家劫舍.md",
+    "题库整理.md",
+    "1333. 餐厅过滤器.md",
+    "数学.md",
+    "2582. 递枕头.md",
+    "1222. 可以攻击国王的皇后.md",
+    "2596. 检查骑士巡视方案.md",
+    "二分查找.md",
+    "LCP 06. 拿硬币.md",
+    "2591. 将钱分给最多的儿童.md",
+    "×337. 打家劫舍 III.md",
+    "460. LFU缓存.md",
+    "146. LRU 缓存.md",
+    "×337. 打家劫舍 III.md~",
+    "Drawing 2023-09-24 16.23.54.excalidraw.md",
+    "题目地址.md",
+    "README.md",
+    "×2-100040. 让所有学生保持开心的分组方法数.md",
+    "template/题解.md",
+    "×1-100031. 计算 K 置位下标对应元素的和.md",
+    "×3-100033. 最大合金数.md",
+    "×1462.课程表IV.md",
+    "16-198. 打家劫舍.md",
+    "16-198. 打家劫舍.excalidraw.md",
+    "×4-8041. 完全子集的最大元素和.md",
+    "17-213. 打家劫舍 II.md",
+    "×19-2560. 打家劫舍 IV.md",
+    "2023-09-18.md",
+    "template",
     "leetcode/daily/202309/canvas",
-    "leetcode/daily/202309/LCP 06. 拿硬币.md",
-    "leetcode/base/04-二分查找.md",
     "Pasted Image 20230918212205_941.png",
     "leetcode/base",
-    "leetcode/daily/202309/×2560. 打家劫舍 IV.md",
-    "leetcode/weekly/题目地址.md",
-    "leetcode/weekly/363/×1-100031. 计算 K 置位下标对应元素的和.md",
-    "leetcode/weekly/363/14-1222. 可以攻击国王的皇后.excalidraw.md",
-    "leetcode/weekly/363/×4-8041. 完全子集的最大元素和.md",
-    "leetcode/weekly/363/×3-100033. 最大合金数.md",
-    "leetcode/weekly/363/×2-100040. 让所有学生保持开心的分组方法数.md",
-    "leetcode/daily/202309/×17-213. 打家劫舍 II.md",
-    "leetcode/daily/202309/×1462.课程表IV.md",
-    "leetcode/daily/202309/603.课程表III.md",
-    "leetcode/daily/202309/14-1222. 可以攻击国王的皇后.md",
-    "leetcode/weekly/363/Untitled.md",
-    "[第.md",
-    "leetcode/weekly/363/Drawing 2023-09-17 11.56.24.excalidraw.md",
     "leetcode/weekly/363/Untitled.canvas",
-    "leetcode/weekly/363/Drawing 2023-09-17 11.55.32.excalidraw.md",
-    "leetcode/daily/202309/15-LCP 50. 宝石补给.md",
-    "leetcode/Drawing 2023-09-15 20.36.20.excalidraw.md",
-    "leetcode/weekly/363",
-    "leetcode/daily/202309/2596. 检查骑士巡视方案.md",
-    "Untitled.md",
-    "Untitled",
-    "README.md"
+    "leetcode/weekly/363"
   ]
 }
